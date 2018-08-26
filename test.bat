@@ -1,1 +1,1 @@
-touch gotIt.txt
+echo date >> gotIt.txt
